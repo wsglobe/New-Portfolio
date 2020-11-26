@@ -8,6 +8,6 @@ I built this to showcase what I've been working on.
 ## Future Development
 * Toggle Theme between "Dark" and "Light"
 * Add more projects in projects page
-* Email
+* Social Media
 ## Website
 You can visit the website by going [here](https://).
