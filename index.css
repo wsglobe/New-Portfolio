@@ -54,6 +54,8 @@ nav {
   align-items: center;
   margin: 0;
   margin-left: auto;
+  font-size: 22px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .navigation-item {
