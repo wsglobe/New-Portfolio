@@ -32,7 +32,8 @@ h2 {
 }
 
 body {
-  font-family: "Open Sans", sans-serif;
+  /* font-family: "Open Sans", sans-serif; */
+  font-family: "Proza Libre", sans-serif;
   font-size: 20px;
   margin: 0;
   padding: 0 var(--spacing-3);
@@ -55,7 +56,7 @@ nav {
   align-items: center;
   margin: 0;
   margin-left: auto;
-  font-size: 22px;
+  font-size: 28px;
   font-family: "Proza Libre", sans-serif;
 }
 
